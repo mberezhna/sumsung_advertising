@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Samsung One LCG';
+  src:
+    local('Samsung One LCG 400'),
+    local('Samsung-One-LCG-400'),
+    url('SamsungOne-400.woff2') format('woff2'),
+    url('SamsungOne-400.woff') format('woff'),
+    url('SamsungOne-400.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
